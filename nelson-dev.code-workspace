@@ -1,0 +1,15 @@
+{
+  "folders": [
+    { "name": "Python / Formação", "path": "." },
+    { "name": "KitchenManager", "path": "../KitchenManager" },
+    { "name": "Campeonato Futebol", "path": "../campeonato-futebol" },
+    { "name": "Peppery Linux", "path": "../peppery-linux" },
+    { "name": "Contabilidade e Gestão", "path": "../Contabilidade-e-gest-o-" },
+    { "name": "Anti-virus Projeto", "path": "../anti-virus-projeto" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/__pycache__": true
+    }
+  }
+}
