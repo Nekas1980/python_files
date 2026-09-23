@@ -1,0 +1,44 @@
+a): Maiúsculas 
+A): MAIÚSCULAS 
+ALO, QUERES IR AO SUPERMERCADO?
+OLA, VAMOS BATER CODIGO?
+OLA VAMOS BATER CODIGO
+TAS A CONSEGUIR ESTUDAR PYTHON?
+AMANHA VAMOS AO BAR?
+
+
+B) MINÚSCULAS 
+ALO, QUERES IR AO SUPERMERCADO?
+OLA, VAMOS BATER CODIGO?
+OLA VAMOS BATER CODIGO
+TAS A CONSEGUIR ESTUDAR PYTHON?
+AMANHA VAMOS AO BAR?
+
+
+C) PALAVRAS REVERTIDAS 
+,OLA SEREUQ RI OA ?ODACREMREPUS ,ALO SOMAV RETAB ?OGIDOC ALO SOMAV RETAB OGIDOC SAT A RIUGESNOC RADUTSE ?NOHTYP AHNAMA SOMAV OA ?RAB
+
+
+b) minúsculas 
+a): maiúsculas 
+alo, queres ir ao supermercado?
+ola, vamos bater codigo?
+ola vamos bater codigo
+tas a conseguir estudar python?
+amanha vamos ao bar?
+
+
+b) minúsculas 
+alo, queres ir ao supermercado?
+ola, vamos bater codigo?
+ola vamos bater codigo
+tas a conseguir estudar python?
+amanha vamos ao bar?
+
+
+c) palavras revertidas 
+,ola sereuq ri oa ?odacremrepus ,alo somav retab ?ogidoc alo somav retab ogidoc sat a riugesnoc radutse ?nohtyp ahnama somav oa ?rab
+
+
+c) palavras revertidas 
+:)a salucsúiaM ,OLA SEREUQ RI OA ?ODACREMREPUS ,ALO SOMAV RETAB ?OGIDOC ALO SOMAV RETAB OGIDOC SAT A RIUGESNOC RADUTSE ?NOHTYP AHNAMA SOMAV OA ?RAB )b salucsúnim ,ola sereuq ri oa ?odacremrepus ,alo somav retab ?ogidoc alo somav retab ogidoc sat a riugesnoc radutse ?nohtyp ahnama somav oa ?rab )c sarvalap saditrever Alo, queres ir ao supermercado? ola, vamos bater codigo? ola vamos bater codigo tas a conseguir estudar python? amanha vamos ao Bar?

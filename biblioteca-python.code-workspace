@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "biblioteca_python"
+        }
+    ],
+    "settings": {
+        "explorer.compactFolders": false,
+        "files.exclude": {
+            "**/__pycache__": true,
+            "**/*.pyc": true
+        }
+    }
+}
